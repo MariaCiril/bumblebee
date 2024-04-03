@@ -1,6 +1,14 @@
 body{
     background-color: rgba(231, 180, 11, 0.89);
 }
+h1{
+   color: chartreuse;
+    text-align: center;
+    border: solid.
+}
+
+
+
 
     img{
         display: block;
@@ -10,6 +18,5 @@ body{
         padding: 5px;
         border-radius: 10px;
     }
-            target-text {
-                400
-            }
+    textarea {
+        
