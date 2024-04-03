@@ -1,6 +1,7 @@
 body{
     background-color: rgba(231, 180, 11, 0.89);
     text-align: center;
+    border: solid rgba(7, 7, 7, 0.801)
 }
 h1{
    color: rgba(7, 7, 7, 0.801);
